@@ -1,0 +1,4 @@
+Process,Event Type,Event SubType,Thread,Start (s),End (s),Duration (µs),IRP,File Object,Size (B),File Path,Offset,Flags,Result,Count
+MicrosoftEdgeUpdate.exe (17548),Read,,19880,"21,041649400","32,008604100","10966954,700",0xFFFF800199FF4A78,0xFFFF80019CC875D0,4096,C:\Program Files (x86)\Microsoft\EdgeUpdate\1.3.137.99,0,nocache paging_io synchronous_paging_io ,Success(0) ExtraInfo=4096,1
+HotkeyUtility.exe (24992),Read,,24196,"18,015077200","28,923345300","10908268,100",0xFFFF80019E846A48,0xFFFF80018FFFD4F0,4096,C:\$Mft,411422720,nocache paging_io synchronous_paging_io ,Success(0) ExtraInfo=4096,1
+GoogleCrashHandler64.exe (10428),Read,,21224,"20,089744200","30,760048100","10670303,900",0xFFFF8001B2C8CA08,0xFFFF800196AFCB00,4096,C:\pagefile.sys,501374976,nocache paging_io synchronous_paging_io ,Success(0) ExtraInfo=4096,1
